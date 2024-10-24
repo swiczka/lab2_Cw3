@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "hello",
+      "body": "this is a body"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "hello me",
+      "body": "meet the real me"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "in the misfits way of life",
+      "body": "most valuable posession"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "watch",
+      "body": "him become a God"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "title": "Philosopher",
+      "body": "Knows so much about nothing at all"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "title": "Mr Bacon,",
+      "body": "You live up stairs Mr Bacon stop coming here"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 1,
+      "message": "hello there General Kenobi"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "postId": 1,
+      "message": "It's been a long time"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "postId": 2,
+      "message": "What's nine plus ten?"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "postId": 3,
+      "message": "It all ended right after 'kill em all'"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "postId": 4,
+      "message": "Inside crystal mountain evil takes its form"
+    }
+  ]
+}
