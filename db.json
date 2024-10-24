@@ -35,6 +35,12 @@
       "userId": 3,
       "title": "Mr Bacon,",
       "body": "You live up stairs Mr Bacon stop coming here"
+    },
+    {
+      "id": 7,
+      "userId": 3,
+      "title": "Amarena Amarena",
+      "body": "4 zlotys and you are gone"
     }
   ],
   "comments": [
@@ -67,6 +73,13 @@
       "userId": 3,
       "postId": 4,
       "message": "Inside crystal mountain evil takes its form"
+    },
+    
+    {
+      "id": 6,
+      "userId": 3,
+      "postId": 7,
+      "message": "REL REL REL"
     }
   ]
 }
